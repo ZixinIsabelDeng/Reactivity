@@ -1,16 +1,38 @@
 
 
+using System.Diagnostics;
+using Domain;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Persistence;
+using Activity = Domain.Activity;
 
 namespace API.Controllers
 {
     public class ActivitiesController:BaseApiController
     {
 
-        private readonly DataContext context;
+        private readonly DataContext _context;
         public ActivitiesController(DataContext context)
         {
-            this.context=context;
+            _context=context;
         }
+
+
+        [HttpGet]//  this is the entry point  api/activities
+        //this getactivities method return a list of activities
+        public async Task<ActionResult<List<Activity>>> GetActivities()
+        {
+             return await _context.Activities.ToListAsync();     
+        }
+
+        [HttpGet("{id}")]  //  this is the entry point  api/activities/hudeiahuih
+    
+        public async Task<ActionResult<Activity>> GetActivity(Guid id)
+        {
+            return await _context.Activities.FindAsync(id);
+
+        }
+    
     }
 }
