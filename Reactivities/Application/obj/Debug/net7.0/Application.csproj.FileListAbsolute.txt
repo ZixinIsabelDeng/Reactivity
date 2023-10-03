@@ -1,0 +1,17 @@
+c:\project\udemy\project1\Reactivities\Application\bin\Debug\net7.0\Application.deps.json
+C:\project\udemy\project1\Reactivities\Application\bin\Debug\net7.0\Application.dll
+C:\project\udemy\project1\Reactivities\Application\bin\Debug\net7.0\Application.pdb
+C:\project\udemy\project1\Reactivities\Application\bin\Debug\net7.0\Domain.dll
+C:\project\udemy\project1\Reactivities\Application\bin\Debug\net7.0\Persistence.dll
+C:\project\udemy\project1\Reactivities\Application\bin\Debug\net7.0\Domain.pdb
+C:\project\udemy\project1\Reactivities\Application\bin\Debug\net7.0\Persistence.pdb
+C:\project\udemy\project1\Reactivities\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\project\udemy\project1\Reactivities\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\udemy\project1\Reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\project\udemy\project1\Reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\project\udemy\project1\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+c:\project\udemy\project1\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\project\udemy\project1\Reactivities\Application\obj\Debug\net7.0\Application.dll
+C:\project\udemy\project1\Reactivities\Application\obj\Debug\net7.0\refint\Application.dll
+C:\project\udemy\project1\Reactivities\Application\obj\Debug\net7.0\Application.pdb
+c:\project\udemy\project1\Reactivities\Application\obj\Debug\net7.0\ref\Application.dll
